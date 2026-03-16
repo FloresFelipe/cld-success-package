@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="9008000">
+<Project Type="Project" LVVersion="25008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
@@ -32,6 +32,7 @@
 			<Item Name="CLD3 Timer Mode.ctl" Type="VI" URL="../CLD3 Timer Mode.ctl"/>
 		</Item>
 		<Item Name="CLD 3 FGV Timer.pdf" Type="Document" URL="../CLD 3 FGV Timer.pdf"/>
+		<Item Name="Caller VI.vi" Type="VI" URL="../Caller VI.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
